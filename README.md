@@ -12,4 +12,4 @@
 - Duìyú Wànguómǎ zhōng bù cúnzài de zìmǔ, shǐyòng **liánzì** tèxìng zhìzuò.
 
 ## Bāngzhù Wánshàn
-- Huānyíng tí **Wèntí** huò **Lā Qǐngqiú**.
+- Huānyíng tí **Wèntí** huò **Lā Qǐngqiú**, yě kěyǐ tōngguò nǐ zhīdào de qítā liánxì fāngshì hé wǒ liánxì.
