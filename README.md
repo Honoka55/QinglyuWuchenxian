@@ -12,7 +12,7 @@
 - Duìyú Wànguómǎ zhōng bù cúnzài de zìmǔ, shǐyòng **liánzì** tèxìng zhìzuò.
 
 ## Shòuquán Fāngfǎ
-Běn zìtǐ shǐyòng [Shǔqí Yǔyán Xuéyuàn Kāiyuán Zìtǐ Xǔkězhèng 1.1 Bǎnběn](https://github.com/Honoka55/QinglyuWuchenxian/blob/main/OFL.txt) shòuquán.
+Běn zìtǐ shǐyòng [Shǔqī Yǔyán Xuéyuàn Kāiyuán Zìtǐ Xǔkězhèng 1.1 Bǎnběn](https://github.com/Honoka55/QinglyuWuchenxian/blob/main/OFL.txt) shòuquán.
 
 ## Bāngzhù Wánshàn
 - Huānyíng tí **Wèntí** huò **Lā Qǐngqiú**, yě kěyǐ tōngguò nǐ zhīdào de qítā liánxì fāngshì hé wǒ liánxì.
